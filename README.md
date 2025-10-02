@@ -1,8 +1,6 @@
 ![Header](github-header-image%20(2).png)
 - 🌱 I’m currently learning in **Muhammadiyah University of Yogyakarta**
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **adzkiaazkal90@gmail.com**
 
 ## 🌐 Socials:
